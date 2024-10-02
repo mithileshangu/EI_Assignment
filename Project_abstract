@@ -1,0 +1,3 @@
+The project Enhancing Agricultural Advisory Services with Multilingual LLaMA and RAG aims to simplify access to government schemes and agricultural advisories for farmers. 
+It uses a Retrieval-Augmented Generation (RAG) system, powered by the LLaMA language model, to provide accurate, up-to-date information from a regularly updated knowledge base. 
+The system also includes an automated form-filling feature that helps farmers quickly and accurately complete scheme applications by extracting relevant information from their inputs.
